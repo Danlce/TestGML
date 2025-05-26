@@ -39,7 +39,7 @@
     {"id":{"name":"coso1","path":"objects/coso1/coso1.yy",},},
     {"id":{"name":"cubosexo","path":"objects/cubosexo/cubosexo.yy",},},
     {"id":{"name":"espinilla","path":"objects/espinilla/espinilla.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room","path":"rooms/Room/Room.yy",},},
     {"id":{"name":"Banderavaronil","path":"sprites/Banderavaronil/Banderavaronil.yy",},},
     {"id":{"name":"Cubosexo","path":"sprites/Cubosexo/Cubosexo.yy",},},
     {"id":{"name":"espinasgay","path":"sprites/espinasgay/espinasgay.yy",},},
@@ -48,7 +48,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room","path":"rooms/Room/Room.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
