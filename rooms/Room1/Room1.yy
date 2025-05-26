@@ -1,32 +1,30 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Room",
+  "%Name":"Room1",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_6CB48CDD","path":"rooms/Room/Room.yy",},
-    {"name":"inst_490A35DE","path":"rooms/Room/Room.yy",},
-    {"name":"inst_7EA20EBE","path":"rooms/Room/Room.yy",},
-    {"name":"inst_650D5479","path":"rooms/Room/Room.yy",},
-    {"name":"inst_141E1D10","path":"rooms/Room/Room.yy",},
-    {"name":"inst_2022E929","path":"rooms/Room/Room.yy",},
-    {"name":"inst_6F0AAC9","path":"rooms/Room/Room.yy",},
-    {"name":"inst_5E381A94","path":"rooms/Room/Room.yy",},
-    {"name":"inst_4A8B9416","path":"rooms/Room/Room.yy",},
-    {"name":"inst_2C7F491","path":"rooms/Room/Room.yy",},
-    {"name":"inst_285363AF","path":"rooms/Room/Room.yy",},
-    {"name":"inst_268F8E78","path":"rooms/Room/Room.yy",},
-    {"name":"inst_797A6F7E","path":"rooms/Room/Room.yy",},
-    {"name":"inst_305B8490","path":"rooms/Room/Room.yy",},
-    {"name":"inst_49FAD194","path":"rooms/Room/Room.yy",},
-    {"name":"inst_1CF46555","path":"rooms/Room/Room.yy",},
+    {"name":"inst_6CB48CDD","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_490A35DE","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_7EA20EBE","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_650D5479","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_141E1D10","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_2022E929","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_6F0AAC9","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_5E381A94","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_4A8B9416","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_2C7F491","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_285363AF","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_268F8E78","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_797A6F7E","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_305B8490","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_49FAD194","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_1CF46555","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     {"$GMRInstanceLayer":"","%Name":"Instances_2","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_490A35DE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_490A35DE","objectId":{"name":"cubosexo","path":"objects/cubosexo/cubosexo.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":128.0,},
         {"$GMRInstance":"v2","%Name":"inst_7EA20EBE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7EA20EBE","objectId":{"name":"cubosexo","path":"objects/cubosexo/cubosexo.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":96.0,},
@@ -47,14 +45,8 @@
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":100,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v2","%Name":"inst_6CB48CDD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6CB48CDD","objectId":{"name":"coso1","path":"objects/coso1/coso1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":64.0,},
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-=======
-=======
->>>>>>> Stashed changes
-    {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":16,"gridY":16,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-    {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
->>>>>>> Stashed changes
   ],
-  "name":"Room",
+  "name":"Room1",
   "parent":{
     "name":"IDK",
     "path":"IDK.yyp",
